@@ -1,0 +1,2 @@
+setCssToHead([".",[1],"main.",[1],"data-v-387a69d2 { border: ",[0,1]," solid red; }\n",],undefined,{path:"./pages/demo/demo.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/demo/demo.wxml') } }));

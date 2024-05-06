@@ -1,0 +1,5 @@
+{
+  "usingComponents": {
+    "video-card": "/pages/homeVideo/components/videoCard"
+  }
+}

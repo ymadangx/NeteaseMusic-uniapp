@@ -1,0 +1,1 @@
+<view class="content data-v-c9a2489c"><view class="status_bar data-v-c9a2489c"></view><view class="top-status-bar data-v-c9a2489c"><top-status-bar vue-id="1" leftText="歌单广场" class="data-v-c9a2489c" bind:__l="__l"></top-status-bar></view><view class="swiper harf-px-top flex data-v-c9a2489c">swiper</view><view class="card-box data-v-c9a2489c"></view></view>

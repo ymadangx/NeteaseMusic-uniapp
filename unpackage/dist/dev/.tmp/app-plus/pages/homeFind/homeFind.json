@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "music-card": "/components/musicCard/musicCard",
+    "choiceness-card": "/components/choicenessCard/choicenessCard"
+  }
+}

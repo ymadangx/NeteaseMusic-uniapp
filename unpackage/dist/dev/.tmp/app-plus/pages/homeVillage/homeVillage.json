@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "plaza": "/pages/homeVillage/components/plaza",
+    "concern": "/pages/homeVillage/components/concern"
+  }
+}

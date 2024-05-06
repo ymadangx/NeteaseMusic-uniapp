@@ -1,0 +1,12 @@
+
+.top-status-bar.data-v-2b4a4998 {
+	height: 100%;
+}
+.container.data-v-2b4a4998 {
+	margin: 0 30rpx;
+	height: 100%;
+}
+.left .iconfont.data-v-2b4a4998 {
+	margin-right: 30rpx;
+}
+

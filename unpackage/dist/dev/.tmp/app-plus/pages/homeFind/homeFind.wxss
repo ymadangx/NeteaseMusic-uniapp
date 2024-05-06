@@ -1,0 +1,90 @@
+
+.container {
+	margin: 0 30rpx;
+}
+.swiper {
+	margin-top: 10rpx;
+	height: 17vh;
+}
+.swiper .swiper-item {
+	height: 100%;
+	border-radius: 10rpx;
+	position: relative;
+}
+.swiper .image {
+	height: 100%;
+	border-radius: 10rpx;
+	margin: 0 30rpx;
+	width: calc(100% - 60rpx);
+}
+.swiper .tag {
+	position: absolute;
+	right: 32rpx;
+	bottom: 0;
+	border-radius: 10rpx 0 10rpx 0;
+	color: #ffffff;
+	height: 40rpx;
+	padding: 0 20rpx;
+}
+
+/* roW-nav */
+.row-nav {
+	margin: 40rpx 0;
+}
+.row-nav .list {
+	width: 20%;
+}
+.row-nav .list .thumb {
+	margin: 0 auto;
+	width: 70rpx;
+	height: 70rpx;
+	border-radius: 50%;
+	margin-bottom: 10rpx;
+	background: red;
+}
+
+/*  */
+.new-plate .title,
+.recommend-playlist .title {
+	padding: 30rpx 0 30rpx;
+}
+.new-plate .title .title .right,
+.recommend-playlist .title .right {
+	border: 1rpx solid #e5e5e5;
+	height: 50rpx;
+	width: 150rpx;
+	border-radius: 100rpx;
+}
+.new-plate .card-box,
+.recommend-playlist .card-box {
+	-webkit-flex-wrap: wrap;
+	    -ms-flex-wrap: wrap;
+	        flex-wrap: wrap;
+	-webkit-box-align: start;
+	-webkit-align-items: flex-start;
+	    -ms-flex-align: start;
+	        align-items: flex-start;
+}
+.new-plate .music-card,
+.recommend-playlist .music-card {
+	width: 220rpx;
+}
+.new-plate .active {
+	font-weight: bold;
+	font-size: 32rpx;
+	color: #343434;
+}
+.new-plate .left .item:first-child {
+	margin-right: 20rpx;
+	position: relative;
+}
+.new-plate .left .item:first-child:after {
+	content: '';
+	height: 32rpx;
+	width: 1rpx;
+	background: #e5e5e5;
+	position: absolute;
+	top: 6rpx;
+	right: -10rpx;
+}
+

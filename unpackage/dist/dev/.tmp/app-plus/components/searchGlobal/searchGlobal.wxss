@@ -1,0 +1,17 @@
+
+.global-search.data-v-c7f74010 {
+	height: 100%;
+	margin: 0 30rpx;
+}
+.global-search .icon.data-v-c7f74010 {
+	width: 100rpx;
+	/* border: 1rpx solid #007AFF; */
+}
+.input-area.data-v-c7f74010,
+.input.data-v-c7f74010 {
+	height: 100%;
+}
+.input-area.data-v-c7f74010 {
+	border-bottom: 1rpx solid #858585;
+}
+

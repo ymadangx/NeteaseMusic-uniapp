@@ -1,0 +1,27 @@
+
+.content.data-v-3c64a4d8 {
+}
+.video .thumb.data-v-3c64a4d8 {
+	height: 400rpx;
+	position: relative;
+}
+.video .thumb image.data-v-3c64a4d8 {
+	height: 100%;
+	width: 100%;
+	border-radius: 10rpx;
+}
+.video .thumb .part.data-v-3c64a4d8 {
+	position: absolute;
+}
+.video .thumb .play-num.data-v-3c64a4d8,
+.video .thumb .play-time.data-v-3c64a4d8 {
+	bottom: 10rpx;
+	color: #ffffff;
+}
+.video .thumb .play-num.data-v-3c64a4d8 {
+	left: 10rpx;
+}
+.video .thumb .play-time.data-v-3c64a4d8 {
+	right: 10rpx;
+}
+

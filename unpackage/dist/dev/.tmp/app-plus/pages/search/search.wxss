@@ -1,0 +1,51 @@
+
+.container.data-v-3ff0d9b2 {
+	margin: 0 30rpx;
+}
+.search-global.data-v-3ff0d9b2 {
+	height: 75rpx;
+}
+.main.data-v-3ff0d9b2 {
+	height: calc(100vh - 75rpx - var(--status-bar-height));
+}
+.main .scroll-view-y.data-v-3ff0d9b2 {
+	height: 100%;
+}
+.ad.data-v-3ff0d9b2 {
+	border: 1rpx solid #dcdbdb;
+	border-radius: 10rpx;
+	background: #f6f5f0;
+	height: 100rpx;
+	color: lightcoral;
+	margin: 40rpx 30rpx 40rpx;
+}
+.main .history .records.data-v-3ff0d9b2 {
+	white-space: nowrap;
+	margin-left: 30rpx;
+	margin: 20rpx 30rpx 60rpx;
+}
+.history .records .record.data-v-3ff0d9b2 {
+	display: inline-block;
+	margin-right: 20rpx;
+	background: #f3f3f3;
+	padding: 10rpx 20rpx;
+	border-radius: 20rpx;
+}
+.hot .rank-num.red.data-v-3ff0d9b2 {
+	color: #f73f3d !important;
+}
+.hot .hot-lists .list.data-v-3ff0d9b2 {
+	margin: 30rpx 0;
+}
+.hot .hot-lists .rank-num.data-v-3ff0d9b2 {
+	color: #999999;
+	margin-right: 30rpx;
+}
+.hot .hot-lists .content.data-v-3ff0d9b2 {
+	color: #a3a3a3;
+	margin-top: 10rpx;
+}
+.hot .hot-lists .score.data-v-3ff0d9b2 {
+	color: #dedede;
+}
+

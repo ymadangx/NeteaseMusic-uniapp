@@ -1,0 +1,7 @@
+{
+  "usingComponents": {
+    "home-slider": "/pages/homeMy/components/homeSlider",
+    "locality-list": "/pages/homeMy/components/localityList",
+    "set-and-collect": "/pages/homeMy/components/setAndCollect"
+  }
+}

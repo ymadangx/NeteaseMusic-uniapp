@@ -1,0 +1,21 @@
+
+.showModal.data-v-1eb57c3a {
+	background: #ffffff;
+	border-radius: 10rpx;
+	width: calc(650rpx - 30rpx);
+	padding: 40rpx 30rpx;
+	color: #999999;
+}
+.showModal .btns.data-v-1eb57c3a {
+	margin-top: 40rpx;
+	color: #e24647;
+	-webkit-box-pack: end;
+	-webkit-justify-content: flex-end;
+	    -ms-flex-pack: end;
+	        justify-content: flex-end;
+}
+.showModal .btns .btn.data-v-1eb57c3a {
+	width: 150rpx;
+	text-align: center;
+}
+

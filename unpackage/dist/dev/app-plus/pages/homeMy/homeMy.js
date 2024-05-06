@@ -1,0 +1,2 @@
+setCssToHead([".",[1],"locality-list.",[1],"data-v-a0a6af5c { border-bottom: ",[0,15]," solid #f4f4f4; }\n.",[1],"set-and-collect.",[1],"data-v-a0a6af5c { margin: 0 ",[0,35],"; }\n",],undefined,{path:"./pages/homeMy/homeMy.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/homeMy/homeMy.wxml') } }));

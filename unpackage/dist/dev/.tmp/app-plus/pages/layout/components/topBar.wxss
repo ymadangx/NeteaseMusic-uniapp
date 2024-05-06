@@ -1,0 +1,40 @@
+
+.top-bar.data-v-23c2f402,
+.navs.data-v-23c2f402,
+.nav.data-v-23c2f402 {
+	height: 100%;
+}
+.navs .nav.data-v-23c2f402 {
+	border: 1rpx solid rgba(0, 0, 0, 0.1);
+	border-radius: 50%;
+	height: 90rpx;
+	width: 90rpx;
+	margin: 0 5rpx;
+	color: #717171;
+	-webkit-transform: scale(1);
+	    -ms-transform: scale(1);
+	        transform: scale(1);
+	-webkit-transition: 0.1s;
+	-o-transition: 0.1s;
+	transition: 0.1s;
+}
+.navs .active.data-v-23c2f402 {
+	font-weight: 700;
+	color: #363636;
+	font-size: 34rpx;
+	-webkit-transform: scale(1.1);
+	    -ms-transform: scale(1.1);
+	        transform: scale(1.1); /*放大1.1倍*/
+	-webkit-transition: 0.1s;
+	-o-transition: 0.1s;
+	transition: 0.1s;
+}
+.menu-icon.data-v-23c2f402 {
+	position: relative;
+}
+.chat.data-v-23c2f402 {
+	position: absolute;
+	left: 40rpx;
+	top: -18rpx;
+}
+

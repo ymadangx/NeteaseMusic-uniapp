@@ -1,0 +1,26 @@
+
+.content.data-v-3b253dbc {
+	height: 180rpx;
+}
+.grace-scroll-x.data-v-3b253dbc {
+	white-space: nowrap;
+}
+.item.data-v-3b253dbc {
+	display: inline-block;
+	width: 22%;
+}
+.item .item-icon.data-v-3b253dbc {
+	margin: 0 auto;
+	width: 70rpx;
+	height: 70rpx;
+	border-radius: 50%;
+	margin-bottom: 10rpx;
+	background: red;
+}
+.item-icon .iconfont.data-v-3b253dbc {
+	color: #ffffff;
+}
+.item .text.data-v-3b253dbc {
+	color: #a4a4a4;
+}
+

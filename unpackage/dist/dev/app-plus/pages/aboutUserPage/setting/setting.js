@@ -1,0 +1,2 @@
+setCssToHead([".",[1],"container.",[1],"data-v-e23b2c28 { margin: 0 ",[0,20],"; }\n",],undefined,{path:"./pages/aboutUserPage/setting/setting.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/aboutUserPage/setting/setting.wxml') } }));

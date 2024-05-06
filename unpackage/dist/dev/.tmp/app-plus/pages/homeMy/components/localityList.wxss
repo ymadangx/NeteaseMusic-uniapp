@@ -1,0 +1,19 @@
+
+.list.data-v-1507e823 {
+	height: 100rpx;
+}
+.right.data-v-1507e823,
+.iconfont.data-v-1507e823 {
+	height: 100%;
+}
+.list .right .num.data-v-1507e823 {
+	color: #a4a4a4;
+	margin-left: 10rpx;
+}
+.list .iconfont.data-v-1507e823 {
+	width: 20%;
+}
+.list:first-child .right.data-v-1507e823:after {
+	height: 0;
+}
+

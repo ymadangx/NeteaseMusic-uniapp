@@ -1,0 +1,10 @@
+{
+  "usingComponents": {
+    "top-bar": "/pages/layout/components/topBar",
+    "home-my": "/pages/homeMy/homeMy",
+    "home-find": "/pages/homeFind/homeFind",
+    "home-video": "/pages/homeVideo/homeVideo",
+    "drawer-user": "/pages/layout/components/drawerUser",
+    "home-village": "/pages/homeVillage/homeVillage"
+  }
+}

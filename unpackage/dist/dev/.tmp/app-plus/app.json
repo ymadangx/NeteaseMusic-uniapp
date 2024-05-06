@@ -1,0 +1,35 @@
+{
+  "pages": [
+    "pages/opening/opening",
+    "pages/login/login",
+    "pages/layout/layout",
+    "pages/homeMy/homeMy",
+    "pages/homeFind/homeFind",
+    "pages/homeVillage/homeVillage",
+    "pages/homeVideo/homeVideo",
+    "pages/aboutUserPage/myMessage",
+    "pages/aboutUserPage/setting/setting",
+    "pages/playMenuSquare/playMenuSquare",
+    "pages/singerLists/singerLists",
+    "pages/singerPage/singerPage",
+    "pages/search/search",
+    "pages/sendCode/sendCode",
+    "pages/demo/demo"
+  ],
+  "window": {
+    "navigationStyle": "custom",
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "nvueCompiler": "uni-app",
+  "renderer": "auto",
+  "splashscreen": {
+    "alwaysShowBeforeRender": true,
+    "autoclose": false
+  },
+  "appname": "VUE",
+  "compilerVersion": "2.3.7",
+  "usingComponents": {}
+}

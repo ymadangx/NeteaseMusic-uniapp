@@ -1,0 +1,8 @@
+{
+  "usingComponents": {
+    "uni-drawer": "/components/uni-drawer/uni-drawer",
+    "list": "/components/list/list",
+    "chat": "/components/chat/chat"
+  },
+  "component": true
+}

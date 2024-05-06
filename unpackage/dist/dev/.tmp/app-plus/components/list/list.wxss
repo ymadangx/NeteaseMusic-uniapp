@@ -1,0 +1,12 @@
+
+.list.data-v-953d4450 {
+	height: 100%;
+}
+.list .right text.data-v-953d4450 {
+	color: #848484;
+}
+.list .left .iconfont.data-v-953d4450 {
+	margin-right: 20rpx;
+	font-size: 40rpx;
+}
+

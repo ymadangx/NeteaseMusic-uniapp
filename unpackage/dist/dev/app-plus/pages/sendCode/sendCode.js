@@ -1,0 +1,2 @@
+setCssToHead([".",[1],"send-code.",[1],"data-v-ca117ddc { height: 100vh; }\n",],undefined,{path:"./pages/sendCode/sendCode.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/sendCode/sendCode.wxml') } }));

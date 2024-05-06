@@ -1,0 +1,7 @@
+{
+  "usingComponents": {
+    "search-suggest": "/components/searchSuggest/searchSuggest",
+    "show-modal": "/components/showModal/showModal",
+    "search-global": "/components/searchGlobal/searchGlobal"
+  }
+}

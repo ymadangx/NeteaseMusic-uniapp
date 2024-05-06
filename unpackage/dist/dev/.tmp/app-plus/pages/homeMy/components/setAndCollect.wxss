@@ -1,0 +1,49 @@
+
+.menu .lists.data-v-1afb0d43 {
+	overflow: hidden;
+	height: 100%;
+}
+.lists .list.data-v-1afb0d43 {
+	-webkit-transition: all ease 0.4s 0.2s;
+	-o-transition: all ease 0.4s 0.2s;
+	transition: all ease 0.4s 0.2s;
+	height: 120rpx;
+}
+.transition .lists .list.data-v-1afb0d43 {
+	height: 0;
+}
+.menu .hd .hd-left-icon.data-v-1afb0d43 {
+	display: inline-block;
+	-webkit-transition: all ease 0.4s 0.2s;
+	-o-transition: all ease 0.4s 0.2s;
+	transition: all ease 0.4s 0.2s;
+}
+.transition .hd-left-icon.data-v-1afb0d43 {
+	-webkit-transform: rotate(-90deg);
+	    -ms-transform: rotate(-90deg);
+	        transform: rotate(-90deg);
+}
+.hd .hd-name.data-v-1afb0d43 {
+	margin: 0 10rpx;
+}
+.lists .list .num.data-v-1afb0d43,
+.hd .left .num.data-v-1afb0d43 {
+	color: #a4a4a4;
+}
+.list.love .right.data-v-1afb0d43 {
+	border: 1rpx solid #e5e5e5;
+	border-radius: 30rpx;
+	height: 40rpx;
+	width: 160rpx;
+}
+.list.love .thumb.data-v-1afb0d43 {
+	height: 100rpx;
+	width: 100rpx;
+	background: #4b4b4b;
+	border-radius: 4rpx;
+	color: #ffffff;
+}
+.lists .thumb.data-v-1afb0d43 {
+	margin-right: 20rpx;
+}
+

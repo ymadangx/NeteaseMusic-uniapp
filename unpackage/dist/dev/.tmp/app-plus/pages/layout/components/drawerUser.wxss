@@ -1,0 +1,116 @@
+
+.container.data-v-083b7c5d {
+	margin: 0 35rpx;
+}
+.scroll-view-y.data-v-083b7c5d {
+	height: calc(100vh - 100rpx);
+}
+.user-info.data-v-083b7c5d {
+	height: 25vh;
+	position: relative;
+	background-position: center center;
+}
+.lucency.data-v-083b7c5d {
+	position: absolute;
+	left: 0;
+	right: 0;
+	top: 0;
+	bottom: 0;
+	background: rgba(255, 255, 255, 0.8);
+}
+.user-info .login.data-v-083b7c5d,
+.user-info .not-login.data-v-083b7c5d {
+	height: 100%;
+}
+.login.data-v-083b7c5d {
+	-webkit-box-align: start;
+	-webkit-align-items: flex-start;
+	    -ms-flex-align: start;
+	        align-items: flex-start;
+}
+.login .info.data-v-083b7c5d {
+	width: 100%;
+}
+.login .info .check-in .no-sign-in.data-v-083b7c5d {
+	color: #ffffff;
+	background: #ec3739;
+	border-radius: 30rpx;
+	padding: 4rpx 20rpx;
+}
+.login .info .check-in .iconfont.data-v-083b7c5d {
+	margin-right: 6rpx;
+}
+.login .info .check-in .has-sign-in.data-v-083b7c5d {
+	color: #2d2d2d;
+	border: 1rpx solid #999;
+	border-radius: 100rpx;
+	padding: 4rpx 20rpx;
+}
+.login .info .nickname.data-v-083b7c5d {
+	margin-right: 20rpx;
+	opacity: 1;
+}
+.login .avatar.data-v-083b7c5d {
+	height: 120rpx;
+	width: 120rpx;
+	margin-bottom: 20rpx;
+}
+.not-login .login-btn.data-v-083b7c5d {
+	color: #5d5d5d;
+	border-radius: 50rpx;
+	border: 1rpx solid #c9c9c9;
+	height: 50rpx;
+	width: 200rpx;
+	margin-top: 40rpx;
+}
+.not-login .text.data-v-083b7c5d {
+	color: #5e5e5e;
+}
+.banner.data-v-083b7c5d {
+	height: 110rpx;
+	background: #000000;
+	border-radius: 10rpx;
+	position: absolute;
+	width: calc(100% - 70rpx);
+	top: calc(25vh - 50rpx);
+}
+.row-list-area .iconfont.data-v-083b7c5d {
+	margin-bottom: 10rpx;
+	position: relative;
+	color: #f0231b;
+}
+.row-list-area .chat.data-v-083b7c5d {
+	position: absolute;
+	left: 25rpx;
+	top: -14rpx;
+}
+.row-list-area.data-v-083b7c5d {
+	margin-top: 100rpx;
+}
+.row-list-area.data-v-083b7c5d,
+.col-list1.data-v-083b7c5d,
+.creation-center.data-v-083b7c5d {
+	padding: 20rpx 0;
+}
+.lists .list.data-v-083b7c5d {
+	height: 80rpx;
+}
+.lists .list .left .iconfont.data-v-083b7c5d {
+	margin-right: 20rpx;
+}
+.lists .list .right.data-v-083b7c5d {
+	color: #848484;
+}
+.bottom.data-v-083b7c5d {
+	height: 100rpx;
+	position: fixed;
+	bottom: 0;
+	width: 100%;
+}
+.bottom .container.data-v-083b7c5d {
+	height: 100%;
+}
+.bottom .item .iconfont.data-v-083b7c5d {
+	margin-right: 20rpx;
+}
+

@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "chat": "/components/chat/chat"
+  },
+  "component": true
+}

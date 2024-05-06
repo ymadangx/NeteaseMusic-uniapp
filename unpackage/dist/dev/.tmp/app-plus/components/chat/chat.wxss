@@ -1,0 +1,17 @@
+
+.chat.data-v-4f103bd0 {
+	background: red;
+	color: #ffffff;
+}
+.chat.data-v-4f103bd0:not(:empty) {
+	font-size: 20rpx;
+
+	padding: 0 10rpx;
+	border-radius: 1000rpx;
+}
+.chat.data-v-4f103bd0:empty {
+	height: 15rpx;
+	width: 15rpx;
+	border-radius: 50%;
+}
+
